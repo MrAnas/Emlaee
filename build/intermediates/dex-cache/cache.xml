@@ -3,210 +3,210 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.github.dmytrodanylyk.shadow-layout\library\1.0.3\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6625ecb586cdd40f3e160486368e5251630899c9">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.dmytrodanylyk.shadow-layout-library-1.0.3_520200d77382f77999e5ed179b2c72f80898dac6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_1b94e9489cce86b3d9deb81ff36feddd7d7b41a5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\me.relex\circleindicator\1.2.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1db6784d006818fee2591f13b0bf09ac31a3d49a">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.relex-circleindicator-1.2.2_c92e4d5ba389b1b54489f2ede2c7b457e8f6dda2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\libs\universal-image-loader-1.9.5.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.5_ca2734f2d9a2c269e97b1d4bbc7115135382b2e1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_3ed8060177f58387dd750e5b19bf8dc68b11caa7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_5efd5439ae0cce3016374dc36dab9b07a615c0f6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_d2ffe2b0b1fab2d0d68355deab5daf509da6f830\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_97c84fa835825a70f9eb7240cc1aa281fd65622b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_245767c13aaa8f6c55b39a6737634d8f154d299a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_1fbab30a49ed86bce67876a91121d7a4269b361a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_05d435588af03190c09908fae6f110571dd79286\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jar="C:\Users\anas2\.android\build-cache\a92b064bf8d288f3bf8e1b1ecb2696a4f572e5b9\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_7860a7674bf87a66769b8a918d550058125f353c\classes.dex" />
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d544d615cab43c34d9884a5b9b45ccbea30899cd\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jar="C:\Users\anas2\.android\build-cache\8825baf381fe9ff5fb7ae6fe3aa2e754fc76c515\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_2132b484a1c7b0bd64d3ef7640f22fbb37c752c7\classes.dex" />
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c49d4cb58c2a51fbf40bd7433e5beb5cd466091f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\anas2\.android\build-cache\2cacb1fb67c819a33368208cdd724d906f8c5e66\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7bf9e4174e256379fca0ea6a789980cc535230db">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7a528ffa79cad7214809a6a2cdc2a6b07875824b\classes.dex" />
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b74bdc16d8addf766ec0a558aa5fb1e6231392e6\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\jars\classes.jar"
+        jar="C:\Users\anas2\.android\build-cache\1e7fad68f00f7ad69351661ab80574f1b4ddb31a\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.d-max-spots-dialog-0.4_70c6a6dd4043bff9d117b0c911ef0998859fb14b\classes.dex" />
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f2d139a106d209b5a8da0bbfd0dcb1cad5a6142\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jar="C:\Users\anas2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_a4d2d28eed1cb2b47f038b9ece514d01535862c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\d94c20449fe266272a4e1b53ca1ad8cdffccab39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b540d9f962540fc279b12d5239bfe26bd609cd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79941e6d65358b764a80aa86ac590fd17e105152">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d234a0e85ab684def0a787c718de5c9efeff6adf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\730f744820a69c0ee4c6533eba48ad95a4cfc976\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1db6784d006818fee2591f13b0bf09ac31a3d49a">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c33eb75e0d57aea8725c59664fb52935adc491f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\d5d81528330a7be2ee61c681de400dbde5f2bf02\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_014f6cdbdb8cba8846ae8d7749909a619aa6ee12\classes.dex" />
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7cd687316068b4e40ee9bfc786671c3b68d97605\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_27633e9fc803dbb17ae06af9a9c563fe6e8e1aec\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_2f750c6acb0eff81654ecbcd6e2d98452014ea8d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_f04f9ffca84a98fac6f95ff0453e762b3f04de18\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_46e73f2dacecad0c3876715a5771c3713c80c329\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jar="C:\Users\anas2\.android\build-cache\47180e1d3141a85a0bc503228dae067b63c2f387\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_7e2e90e27d406360852f02ae82ead3a82cb805e3\classes.dex" />
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2378bd2caa75ab73ee0db5887eb5662ba497d3a5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jar="C:\Users\anas2\.android\build-cache\76096078966dccaa14c165ae3dcfcff4a971630c\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_179a5cba295f2cdaf6e70f79cc776a45765812a0\classes.dex" />
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d1b08be37904d37a4cf420ab54f455674e2b83e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\anas2\.android\build-cache\b9dc612cb0480a7905c0376c59b99c805fe0b7e3\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="197163a8b33d0e32bd518b29e1a8be91ba848092">
-        <dex dex="C:\Users\analbassam\Dropbox\Projects\Emlaee\Source Code\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2b423732fc4ee7118556ca3b15cb07dfd34fd728\classes.dex" />
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41bcbec5ddb152a4b296a90522da4d85ade52997\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\e800d12fa11ee1767aa04828832489de0ca34e21\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03ba34076c27c1127790320e84f965af50a8017f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\d1aa41e28f35b778640242d5143b22c84c248640\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4f30b8a517546ab6554dec747f0f6d3c9240d24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\65031aceccd6ef0d6d97e025d3d512c6261f077b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95b68401c499397fd72cd835a567512e44445272\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\dcef1f18a6bdcd555c3042c9cf210e41c446633a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f88478390a45e820f0c0d4fb4591524c0e5b826\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\fa6da70fc5e23411ed0d7cdfe6d29078e8ab4466\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae9cd1d9fe122fc23c4ff220b305573c0cbdbd7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\f00e23bc15fa8a4e9f88095c9adede1cdbd46e8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d114bc51232df78233ca0912f0de3c006fd3f519\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a0f5d5312971b955431a6fee13ff4770097c0e29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\ad33f96bf1550580f3f8853b353c1e539cfbbeb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a8d87f9cbe340ad67c40845aff4260639c542b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\d6d83745d21368683c623bbc1bcc0fb8e578d916\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6625ecb586cdd40f3e160486368e5251630899c9">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98afdefbbbfa674daa5240d843cc3782bf84a88e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\.android\build-cache\602b4de297e3f53816bc6e5a07bab80ee43b9ab3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a5e838a32fd341c87ea95f00de14376006f3907\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\anas2\Dropbox\Projects\Emlaee\Source Code Android\Emlaee\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.5_e86f8c1dfd4b0c6c8f8e482044eb2de8867eaf9d\classes.dex" />
     </item>
 
 </items>
