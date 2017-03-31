@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.app.emlaee.fragments.PerformanceFragment">
+
+
+    <TextView
+        android:id="@+id/txtTop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="@dimen/size_8_dp"
+        android:singleLine="true"
+        android:text="@string/cs"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size_45_sp" />
+
+
+</LinearLayout>

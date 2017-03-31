@@ -1,0 +1,219 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="slidiing_menu_width">110dp</dimen>
+    <!-- login-signup-activity-->
+    <dimen name="feature_text_size">16sp</dimen>
+    <dimen name="login_sign_up_button_margin">28dp</dimen>
+    <dimen name="layout_padding">20dp</dimen>
+    <dimen name="indicator_margin_top">10dp</dimen>
+    <dimen name="indicator_margin_bottom">16dp</dimen>
+    <dimen name="sign_up_text_size">18sp</dimen>
+    <dimen name="logo_top_margin">48dp</dimen>
+
+    <!--Sign up-->
+    <dimen name="edit_text_size">20sp</dimen>
+    <dimen name="edit_text_margin">6dp</dimen>
+    <dimen name="agree_text_top_margin">32dp</dimen>
+    <dimen name="agree_text_size">18sp</dimen>
+    <dimen name="login_signup_text_size">22sp</dimen>
+    <dimen name="create_account_text_size">20sp</dimen>
+    <dimen name="add_photo_text_size">18sp</dimen>
+
+    <!-- Home Fragment-->
+    <dimen name="items_text_size">22sp</dimen>
+    <!-- Tell us more-->
+    <dimen name="problem_text_height">112dp</dimen>
+    <dimen name="take_pic_container_height">200dp</dimen>
+    <!-- Picture Dialog-->
+    <dimen name="popuplayoutmagin">12dp</dimen>
+    <dimen name="edittext_padding">8dp</dimen>
+    <!--Camra_Gallery Dialog(PopUP)-->
+    <dimen name="camgall_texttop">28sp</dimen>
+    <dimen name="camgall_textbottom">23sp</dimen>
+    <dimen name="dialoglargetextsize">27sp</dimen>
+
+<!--Card Dailog-->
+
+    <dimen name="dialogsmalltextsize">15sp</dimen>
+    <dimen name="dialogmediumtextsize">20sp</dimen>
+<!--Plan Complete-->
+    <dimen name="plan_price_text_size">32sp</dimen>
+    <dimen name="button_purchase_top_margin">72dp</dimen>
+    
+    <!-- Rekey-->
+    <dimen name="lock_item_text_size">18sp</dimen>
+    <dimen name="lock_item_text_padding">10dp</dimen>
+
+    <!-- Address-->
+    <dimen name="where_service_text">20sp</dimen>
+    <dimen name="where_service_padding">36dp</dimen>
+    <dimen name="new_address_layout_padding">18dp</dimen>
+    <dimen name="new_address_button_padding">40dp</dimen>
+
+    <!--Delete PopUp-->
+    <dimen name="textsizesmall">17sp</dimen>
+    <dimen name="textsizemedium">21sp</dimen>
+    <dimen name="textsizelarge">24sp</dimen>
+    <dimen name="margin_top">28dp</dimen>
+    <!--setting Screen-->
+    <dimen name="left_right_line_marging">8dp</dimen>
+    <dimen name="left_marging">15dp</dimen>
+    <dimen name="all_padding_in_widgets">12dp</dimen>
+    <dimen name="line_topmargin">35dp</dimen>
+    <dimen name="paddingbottom">70dp</dimen>
+
+    <!--MyJobs Fragment-->
+    <dimen name="tabs_margin">15dp</dimen>
+    <dimen name="tableftrightmargin">52dp</dimen>
+    <!--Cancel JOb Fragment-->
+    <dimen name="tellusedit_height">160dp</dimen>
+    <!--Completed Jobs-->
+    <dimen name="bigcircleheight">110dp</dimen>
+    <dimen name="ratinglargestar">60dp</dimen>
+    <!--CancelJob Schedule-->
+    <dimen name="allmargins">10dp</dimen>
+    <dimen name="cancelsch_ratingbar">50dp</dimen>
+    <dimen name="cancelsch_ratingbar1">43dp</dimen>
+
+    <!--Rating Fragment....-->
+    <dimen name="ratingleft">17dp</dimen>
+    <dimen name="ratingright">19dp</dimen>
+    <dimen name="ratingtxtlarge">17sp</dimen>
+    <dimen name="ratingtxtmedium">15sp</dimen>
+    <dimen name="ratingtxtsmall">13sp</dimen>
+
+    <dimen name="ratinglisttopmargin">40dp</dimen>
+    <dimen name="ratingstartsize">55dp</dimen>
+    <dimen name="ratinglistitemstarsize">20dp</dimen>
+
+    <!--Job Summary-->
+    <dimen name="f_c_f_height">250dp</dimen>
+    <dimen name="f_c_f_width">150dp</dimen>
+
+    <!--Common Text For Multiple Screens......-->
+    <dimen name="commonxlargetxt">24sp</dimen>
+    <dimen name="commonlargetxt">21sp</dimen>
+    <dimen name="commonmediumtxt">18sp</dimen>
+    <dimen name="commsize">15sp</dimen>
+    <dimen name="commonsmalltxt">11sp</dimen>
+    <dimen name="commonpadding">10dp</dimen>
+    <dimen name="commonmediummar_padd">20dp</dimen>
+    <dimen name="cdimbottomtop">32dp</dimen>
+
+    <dimen name="commonxxl">37sp</dimen>
+
+    <dimen name="imgheght">95dp</dimen>
+    <dimen name="imgwid">90dp</dimen>
+
+
+    <!--Home Activity With Fragment Drawer-->
+    <dimen name="drawerwidth">310dp</dimen>
+    <dimen name="common_padd_more">14dp</dimen>
+    <dimen name="home_hei_wid">120dp</dimen>
+
+    <!--Login SignUp New-->
+    <dimen name="leftrightmar">24dp</dimen>
+    <dimen name="toptoolbarmar">57dp</dimen>
+
+
+
+    <!-- Chat Dimenssions-->
+    <dimen name="unread_counter_text_size">13sp</dimen>
+
+    <dimen name="chat_date_text_size">13sp</dimen>
+    <dimen name="chat_date_header_top_margin">30dp</dimen>
+
+    <dimen name="chat_author_text_size">16sp</dimen>
+    <dimen name="chat_attachment_preview_size">80dp</dimen>
+
+    <dimen name="chat_message_body_text_size">16sp</dimen>
+    <dimen name="chat_message_info_text_size">13sp</dimen>
+    <dimen name="chat_message_content_margin">4dp</dimen>
+    <dimen name="chat_message_username_margin">@dimen/chat_message_content_margin</dimen>
+
+    <dimen name="chat_message_attachment_username_margin">12dp</dimen>
+    <dimen name="chat_message_attachment_size">160dp</dimen>
+    <dimen name="padding_common_twice">20dp</dimen>
+    <dimen name="padding_common">10dp</dimen>
+
+    <dimen name="list_item_side_margin">@dimen/padding_common_twice</dimen>
+
+    <dimen name="txtdoller">45sp</dimen>
+
+
+
+    <!--Dimens XHDPI-->
+    <dimen name="size_3_dp">3dp</dimen>
+    <dimen name="size_4_dp">4dp</dimen>
+    <dimen name="size_5_dp">5dp</dimen>
+    <dimen name="size_6_dp">6dp</dimen>
+    <dimen name="size_7_dp">7dp</dimen>
+    <dimen name="size_8_dp">8dp</dimen>
+    <dimen name="size_10_dp">10dp</dimen>
+    <dimen name="size_11_sp">11sp</dimen>
+    <dimen name="size_12_dp">12dp</dimen>
+    <dimen name="size_12_sp">10sp</dimen>
+    <dimen name="size_13_dp">13dp</dimen>
+    <dimen name="size_13_sp">13sp</dimen>
+    <dimen name="size_14_dp">14dp</dimen>
+    <dimen name="size_14_sp">14sp</dimen>
+    <dimen name="size_15_dp">15dp</dimen>
+    <dimen name="size_15_sp">15sp</dimen>
+    <dimen name="size_16_dp">16dp</dimen>
+    <dimen name="size_16_sp">16sp</dimen>
+    <dimen name="size_17_sp">17sp</dimen>
+    <dimen name="size_17_dp">17dp</dimen>
+    <dimen name="size_18_sp">18sp</dimen>
+    <dimen name="size_18_dp">18dp</dimen>
+    <dimen name="size_19_dp">19dp</dimen>
+    <dimen name="size_19_sp">19sp</dimen>
+    <dimen name="size_20_dp">20dp</dimen>
+    <dimen name="size_20_sp">20sp</dimen>
+    <dimen name="size_21_sp">21sp</dimen>
+    <dimen name="size_22_sp">22sp</dimen>
+    <dimen name="size_22_dp">22dp</dimen>
+    <dimen name="size_23_sp">23sp</dimen>
+    <dimen name="size_24_sp">24sp</dimen>
+    <dimen name="size_24_dp">24dp</dimen>
+    <dimen name="size_25_dp">25dp</dimen>
+    <dimen name="size_27_sp">27sp</dimen>
+    <dimen name="size_28_dp">28dp</dimen>
+    <dimen name="size_28_sp">28sp</dimen>
+    <dimen name="size_30_dp">30dp</dimen>
+    <dimen name="size_30_sp">30sp</dimen>
+    <dimen name="size_32_dp">32dp</dimen>
+    <dimen name="size_32_sp">32sp</dimen>
+    <dimen name="size_35_dp">35dp</dimen>
+    <dimen name="size_35_sp">35sp</dimen>
+    <dimen name="size_37_sp">37sp</dimen>
+    <dimen name="size_40_dp">40dp</dimen>
+    <dimen name="size_40_sp">40sp</dimen>
+    <dimen name="size_43_dp">43dp</dimen>
+    <dimen name="size_45_dp">45dp</dimen>
+    <dimen name="size_45_sp">45sp</dimen>
+    <dimen name="size_48_dp">48dp</dimen>
+    <dimen name="size_50_dp">50dp</dimen>
+    <dimen name="size_52_dp">52dp</dimen>
+    <dimen name="size_55_dp">55dp</dimen>
+    <dimen name="size_57_dp">57dp</dimen>
+    <dimen name="size_60_dp">60dp</dimen>
+    <dimen name="size_70_dp">70dp</dimen>
+    <dimen name="size_72_dp">72dp</dimen>
+    <dimen name="size_80_dp">80dp</dimen>
+    <dimen name="size_90_dp">90dp</dimen>
+    <dimen name="size_95_dp">95dp</dimen>
+    <dimen name="size_100_dp">100dp</dimen>
+    <dimen name="size_110_dp">110dp</dimen>
+    <dimen name="size_112_dp">112dp</dimen>
+    <dimen name="size_120_dp">120dp</dimen>
+    <dimen name="size_150_dp">150dp</dimen>
+    <dimen name="size_160_dp">160dp</dimen>
+    <dimen name="size_200_dp">200dp</dimen>
+    <dimen name="size_250_dp">250dp</dimen>
+    <dimen name="size_310_dp">310dp</dimen>
+    <dimen name="size_t90_dp">60dp</dimen>
+
+</resources>

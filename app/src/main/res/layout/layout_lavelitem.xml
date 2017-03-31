@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/size_200_dp"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        card_view:cardCornerRadius="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/lineView"
+        android:layout_alignParentTop="true">
+
+        <LinearLayout
+            android:id="@+id/layoutRelative"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="0.6"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="@dimen/size_20_dp"
+                    android:layout_marginBottom="@dimen/size_20_dp"
+                    android:src="@mipmap/ic_launcher"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1.4"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/size_15_dp"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/txtTopTilte"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text=""
+                    android:singleLine="true"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/size_18_sp"
+                    android:textStyle="bold"
+                    android:padding="@dimen/size_8_dp"
+                    />
+                <TextView
+                    android:id="@+id/txtDescription"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text=""
+                    android:maxLines="2"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/size_16_sp"
+                    android:padding="@dimen/size_3_dp"
+                    />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center|right"
+                    android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/txtOption"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/starttest"
+                        android:layout_gravity="right"
+                        android:paddingRight="@dimen/size_45_dp"
+                        android:paddingLeft="@dimen/size_45_dp"
+                        android:paddingTop="@dimen/size_8_dp"
+                        android:paddingBottom="@dimen/size_8_dp"
+                        android:background="@drawable/levelitemselector"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="@dimen/size_16_sp"
+                        />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+    <View
+        android:id="@+id/lineView"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="1.5dp"
+        android:background="@color/colorAccent"></View>
+
+</RelativeLayout>

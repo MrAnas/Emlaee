@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:fitsSystemWindows="true">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/size_160_dp"
+                android:orientation="vertical">
+
+
+                <!--<android.support.design.widget.CollapsingToolbarLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent"-->
+                <!--app:layout_scrollFlags="scroll|exitUntilCollapsed">-->
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal"
+                    app:layout_collapseMode="parallax">
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.10" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <!--<View-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="match_parent"-->
+                        <!--android:layout_weight="3" />-->
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/logo_img" />
+
+                        <!--<View-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="match_parent"-->
+                        <!--android:layout_weight="3.20" />-->
+
+                    </LinearLayout>
+
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.20" />
+
+                </LinearLayout>
+
+
+                <!--</android.support.design.widget.CollapsingToolbarLayout>-->
+
+
+            </LinearLayout>
+
+
+            <!-- <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="50dp"
+                 android:layout_marginTop="@dimen/size_10_dp"
+                 android:orientation="vertical"
+                 android:paddingLeft="@dimen/size_40_dp"
+                 android:paddingRight="@dimen/size_40_dp">
+
+                 <android.support.design.widget.TextInputEditText
+                     android:id="@+id/first_name_id"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:hint="@string/signup_first_name"
+                     android:inputType="text"
+                     android:singleLine="true"
+                     android:textDirection="rtl"
+                     android:gravity="right"
+                     android:textSize="@dimen/size_16_sp" />
+
+             </LinearLayout>-->
+
+
+            <!--*******Layout Email******-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/size_40_dp"
+                android:paddingLeft="@dimen/size_40_dp"
+                android:paddingRight="@dimen/size_40_dp"
+                android:text="@string/signup_email"
+                android:textColor="@color/black"
+                android:textSize="@dimen/size_16_sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="@dimen/size_3_dp"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/size_40_dp"
+                android:paddingRight="@dimen/size_40_dp">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/email_id"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edit_rectange"
+                    android:drawableLeft="@drawable/email_ic"
+                    android:gravity="right"
+                    android:hint="@string/signup_email"
+                    android:inputType="text"
+                    android:padding="@dimen/size_10_dp"
+                    android:singleLine="true"
+                    android:textDirection="rtl"
+                    android:textSize="@dimen/size_16_sp" />
+
+            </LinearLayout>
+
+
+            <!--Layout Password-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/size_40_dp"
+                android:paddingRight="@dimen/size_40_dp"
+                android:text="@string/signup_password"
+                android:textColor="@color/black"
+                android:textSize="@dimen/size_16_sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="@dimen/size_3_dp"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/size_40_dp"
+                android:paddingRight="@dimen/size_40_dp">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/password_id"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edit_rectange"
+                    android:drawableLeft="@drawable/key_ic"
+                    android:gravity="right"
+                    android:hint="@string/signup_password"
+                    android:inputType="textPassword"
+                    android:padding="@dimen/size_10_dp"
+                    android:singleLine="true"
+                    android:textDirection="rtl"
+                    android:textSize="@dimen/size_16_sp" />
+
+            </LinearLayout>
+
+            <!--Layout Re enter Password-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/size_40_dp"
+                android:paddingRight="@dimen/size_40_dp"
+                android:text="@string/signup_confirm_password"
+                android:textColor="@color/black"
+                android:textSize="@dimen/size_16_sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="@dimen/size_3_dp"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/size_40_dp"
+                android:paddingRight="@dimen/size_40_dp">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/confirm_password_id"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edit_rectange"
+                    android:drawableLeft="@drawable/key_ic"
+                    android:gravity="right"
+                    android:hint="@string/signup_confirm_password"
+                    android:inputType="textPassword"
+                    android:padding="@dimen/size_10_dp"
+                    android:singleLine="true"
+                    android:textDirection="rtl"
+                    android:textSize="@dimen/size_16_sp" />
+
+            </LinearLayout>
+
+            <!-- <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="50dp"
+                 android:layout_marginTop="@dimen/size_10_dp"
+                 android:orientation="vertical"
+                 android:paddingLeft="@dimen/size_40_dp"
+                 android:paddingRight="@dimen/size_40_dp">
+
+                 <android.support.design.widget.TextInputEditText
+                     android:id="@+id/phone_no_id"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:hint="@string/signup_phone_no"
+                     android:inputType="phone"
+                     android:gravity="right"
+                     android:singleLine="true"
+                     android:textDirection="rtl"
+                     android:textSize="@dimen/size_16_sp" />
+
+             </LinearLayout>-->
+
+            <!--Already Have-->
+            <TextView
+                android:id="@+id/txtAlreadySignIn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/size_20_dp"
+                android:gravity="center"
+                android:paddingLeft="@dimen/size_40_dp"
+                android:paddingRight="@dimen/size_40_dp"
+                android:text="@string/signup_havealready"
+                android:background="@drawable/allselector"
+                android:textColor="@color/black"
+                android:textSize="@dimen/size_16_sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/size_60_dp"
+                android:layout_marginRight="@dimen/size_60_dp"
+                android:background="@color/black"></View>
+
+
+            <ImageView
+                android:id="@+id/signup_btn_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/size_6_dp"
+                android:src="@drawable/login_btn" />
+
+
+        </LinearLayout>
+
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+</android.support.design.widget.CoordinatorLayout>

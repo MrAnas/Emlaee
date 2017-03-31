@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Arabic Quiz</string>
+
+    <!--Login Screen Text-->
+    <string name="email_text">البريد الإلكتروني</string>
+    <string name="password_text">الرمز السري</string>
+    <string name="register_now">سجل الآن!</string>
+    <string name="toast_email_password">الرجاء إدخال اسم المستخدم البريد والرمز السري</string>
+    <string name="toast_email">الرجاء إدخال اسم المستخدم البريد</string>
+    <string name="toast_password">يرجى إدخال الرمز السري</string>
+
+
+    <!--Signup Screen Text-->
+    <string name="signup_first_name">أدخل اسمك الأول</string>
+    <string name="signup_email">إدخال اسم المستخدم البريد الالكتروني</string>
+    <string name="signup_password">كلمه السر</string>
+    <string name="signup_confirm_password">تأكيد كلمة المرور</string>
+    <string name="signup_phone_no">رقم الهاتف</string>
+    <string name="signup_havealready">هل لديك حساب بالفعل؟ تسجيل الدخول</string>
+
+
+    <!--Welcome Screen -->
+    <string name="login_directly">سجل الدخول مباشرة</string>
+    <string name="signup">سجل</string>
+
+
+    <!--Whole App Text-->
+    <string name="please_wait_text">أرجو الإنتظار...</string>
+    <string name="network_connection_msg">الرجاء التحقق من اتصال الإنترنت الخاص بك!</string>
+    <string name="please_fill_all_the_fields">يرجى تعبئة جميع الحقول</string>
+    <string name="please_try_again">حاول مرة اخرى</string>
+
+    <string name="please_enter_password">الرجاء إدخال كلمة المرور</string>
+    <string name="please_enter_email">يرجى إدخال عنوان البريد الإلكتروني</string>
+    <string name="please_re_enter_password">يرجى إعادة إدخال كلمة المرور</string>
+    <string name="reenter_password_not_match">كلمة السر إعادة إدخال كلمة المرور يجب أن لا يقابل
+</string>
+
+
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--Nav Drawer-->
+    <string name="morefeature">المزيد من الميزات لتأتي!</string>
+    <string name="starttest">ابدأ المستوى</string>
+    <!--******Drawer*******-->
+    <string name="nav_home">الصفحة الرئيسية</string>
+    <string name="nav_setting">ضبط</string>
+    <string name="nav_aboutus">معلومات عنا</string>
+    <string name="logout">خروج</string>
+
+
+    <!--******PopUp****-->
+    <string name="hintpopup_text">تذكر دائما، اختبار الواو، ضع حرف واو أمام الاسم المعطى، ثم جرب نطقه مراراً هل يمكنك نطقه بشكل سليم كهمزة قطع أم وصل؟</string>
+
+
+    <!--****StartTestScreen***-->
+    <string name="questionNo">سؤال رقم: </string>
+    <string name="questionLevel">السؤال المستوى: سهل</string>
+    <string name="previous">سابق</string>
+    <string name="next">التالى</string>
+    <string name="finish">نهاية</string>
+    <string name="result">نتيجة</string>
+    <string name="nicework">عمل جيد!</string>
+    <string name="testagain">اختبار مرة أخرى</string>
+    <string name="mainmenu">القائمة الرئيسية</string>
+    <string name="nomoreques">لا مزيد من الاسئلة</string>
+    <string name="cs">قريبا</string>
+    <string name="doneresultadded">وأضافت نتيجة القيام به!</string>
+    <string name="wrong">خاطئة</string>
+    <string name="correct">صحيح</string>
+
+
+</resources>

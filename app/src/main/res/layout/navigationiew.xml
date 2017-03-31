@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/drawerbuttonselector"
+        android:drawableLeft="@drawable/home"
+        android:gravity="right"
+        android:padding="@dimen/size_12_dp"
+        android:text="@string/nav_home"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size_18_sp" />
+
+    <TextView
+        android:id="@+id/txtSetting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/drawerbuttonselector"
+        android:drawableLeft="@drawable/setting"
+        android:gravity="right"
+        android:padding="@dimen/size_12_dp"
+        android:text="@string/nav_setting"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size_18_sp" />
+
+    <TextView
+        android:id="@+id/txtAboutUs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/drawerbuttonselector"
+        android:drawableLeft="@drawable/about"
+        android:gravity="right"
+        android:padding="@dimen/size_12_dp"
+        android:text="@string/nav_aboutus"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size_18_sp" />
+
+
+</LinearLayout>

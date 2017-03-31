@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    tools:context="com.app.emlaee.fragments.AboutUsFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_30_dp"
+        android:gravity="center"
+        android:text="@string/nav_aboutus"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size_40_dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/size_20_dp"
+            android:orientation="vertical">
+            <!-- TODO: Update blank fragment layout -->
+
+            <TextView
+                android:id="@+id/txtAboutUs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/size_15_dp"
+                android:layout_marginRight="@dimen/size_15_dp"
+                android:layout_marginTop="@dimen/size_20_dp"
+                android:padding="@dimen/size_3_dp"
+                android:text="معلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنامعلومات عنا"
+                android:textColor="@color/black"
+                android:textSize="@dimen/size_18_dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
