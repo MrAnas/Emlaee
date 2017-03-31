@@ -46,6 +46,7 @@ public class ActivityHome extends AppCompatActivity implements OnItemClickListen
     private Dialog mHintDialog;
     private LinearLayout mLayoutLevels;
     private LinearLayout mLayoutPerformance;
+    private int test;
     View viewLine;
 
     private SharedPreferences mPref;
