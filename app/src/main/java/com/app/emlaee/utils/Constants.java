@@ -4,7 +4,7 @@ package com.app.emlaee.utils;
 public class Constants {
 
     //    ******************** HTTP REQUEST PARAMETERS FOR API ***************************
-    public static final String BASE_URL = "http://quiz.freejobsnews.com/quiz_project/webservice/";
+    public static final String BASE_URL = "http://emlaee.com/webservice/";
     public static final String REGISTRATION_URL = BASE_URL+"register_android.php";
     public static final String LOGIN_URL = BASE_URL+"login.php";
     public static final String CATEGORIES_URL = BASE_URL+"category.php";
